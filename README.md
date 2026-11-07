@@ -1,11 +1,7 @@
 # CustomerLens — Streamlit Customer Segmentation
 
 A  mini project using K-Means clustering, Streamlit, and SQLite.
-
-## Dataset
-Download `Mall_Customers.csv` from:
-https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
-
+ 
 Put the CSV at `data/Mall_Customers.csv`. Required columns:
 - Annual Income (k$)
 - Spending Score (1-100)
