@@ -1,6 +1,6 @@
 # CustomerLens — Streamlit Customer Segmentation
 
-A B.Tech Data Science mini project using K-Means clustering, Streamlit, and SQLite.
+A  mini project using K-Means clustering, Streamlit, and SQLite.
 
 ## Dataset
 Download `Mall_Customers.csv` from:
